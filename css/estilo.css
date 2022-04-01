@@ -1,22 +1,25 @@
+#menu {
+  text-align: center;
+}
+
 #menu ul {
-    padding: 0px;
-    margin: 0px;
-    background-color: #edededed;
-    list-style: none;
+  padding: 0px;
+  margin: 0px;
+  background-color: #edededed;
+  list-style: none;
 }
 
-#nemu ul li {
-    display: inline;
-    
+#menu ul li {
+  display: inline;
 }
-  
+
 #menu ul li a {
-	padding: 2px 10px;
-	display: inline-block; 
+  padding: 2px 10px;
+  display: inline-block;
 
-	/* visual do link */
-	background-color:#EDEDED;
-	color: #333;
-	text-decoration: none;
-	border-bottom:3px solid #EDEDED;
+  /* visual do link */
+  background-color: #ededed;
+  color: #333;
+  text-decoration: none;
+  border-bottom: 3px solid #ededed;
 }
